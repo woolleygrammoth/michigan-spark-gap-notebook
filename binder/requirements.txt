@@ -1,0 +1,9 @@
+voila
+ipywidgets==7.7.2
+widgetsnbextension==3.6.10
+pandas
+numpy
+matplotlib
+scipy
+us
+openpyxl
