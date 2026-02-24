@@ -1,4 +1,4 @@
-data_year = 2023
+data_year = 2024
 sector = 'Residential Sector'
 state_focus = 'Michigan'
 peer_states = ['Wisconsin', 'Minnesota', 'Indiana', 'Illinois', 'Ohio']
